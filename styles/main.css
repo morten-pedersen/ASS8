@@ -130,9 +130,18 @@ main section img{
 
 #intro,
 #music,
-#retro{
+#retro
+#musicvideos{
     display: flex;
     flex-flow: column;
+}
+
+#youtubecontainer{
+    text-align: center;
+}
+
+.youtubeembed{
+    margin: 10px;
 }
 
 /* give an opportunity to see more of the background */
